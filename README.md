@@ -1,2 +1,2 @@
-# dotfiles
-Arch Linux on Razer Blade
+### Arch Linux on Razer Blade
+
