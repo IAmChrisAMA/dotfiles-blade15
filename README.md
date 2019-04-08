@@ -1,3 +1,3 @@
 ### Arch Linux on Razer Blade
 
-![Busy](https://imgur.com/lqF7Bi3)
+![Busy](https://i.imgur.com/lqF7Bi3.png)
